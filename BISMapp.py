@@ -11,7 +11,7 @@ from sklearn.linear_model import LinearRegression,Lasso,Ridge
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 import os
-os.chdir('C://Users//mohan//OneDrive//Documents//BIDM_Directry//Streamlit')
+#os.chdir('C://Users//mohan//OneDrive//Documents//BIDM_Directry//Streamlit')
 st.title(':house: DreamHomes.com :house:')
 st.text('Best Home at Cheapest Prices. Best Price predictor website for homes')
 st.image("house.jpg")
